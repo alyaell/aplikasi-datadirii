@@ -4,9 +4,9 @@
     session_destroy();
 
     echo "
-    <script>
-        alert('logout berhasil');
-        window.location = 'login.php';
-    </script>
-    "; 
+        <script>
+            alert('Logout Berhasil');
+            window.location='login.php';
+         </script>
+    ";
 ?>
